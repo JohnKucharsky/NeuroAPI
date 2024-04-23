@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="id" value="1f8c401a-ae8d-41a5-a958-8ef7dbe8df6a" />
+          <option name="name" value="Neuro" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="id" value="e12c4f5c-0adb-4157-aab9-420158b0976f" />
+                <option name="method" value="GET" />
+                <option name="name" value="Get" />
+                <option name="url" value="http://localhost:8080/" />
+              </requestState>
+              <requestState>
+                <option name="body">
+                  <bodyState>
+                    <option name="raw" value="{&#10;  &quot;fullname&quot;: &quot;fullname&quot;,&#10;  &quot;birthday&quot;: &quot;birthday&quot;,&#10;  &quot;gender&quot;: 1&#10;}" />
+                    <option name="type" value="JSON" />
+                  </bodyState>
+                </option>
+                <option name="headers">
+                  <list>
+                    <headerState>
+                      <option name="key" value="Content-Type" />
+                      <option name="value" value="application/json" />
+                    </headerState>
+                  </list>
+                </option>
+                <option name="id" value="704b45f2-b7da-4487-9712-c1c3b69d3aea" />
+                <option name="method" value="POST" />
+                <option name="name" value="Post" />
+                <option name="url" value="http://localhost:8080/" />
+              </requestState>
+              <requestState>
+                <option name="body">
+                  <bodyState>
+                    <option name="raw" value="{&#10;  &quot;fullname&quot;: &quot;fullname&quot;,&#10;  &quot;birthday&quot;: &quot;birthday&quot;,&#10;  &quot;gender&quot;: 1&#10;}" />
+                    <option name="type" value="JSON" />
+                  </bodyState>
+                </option>
+                <option name="headers">
+                  <list>
+                    <headerState>
+                      <option name="key" value="Content-Type" />
+                      <option name="value" value="application/json" />
+                    </headerState>
+                  </list>
+                </option>
+                <option name="id" value="ed2ed847-59c5-4c9b-8944-d703d66617b9" />
+                <option name="method" value="PUT" />
+                <option name="name" value="Put" />
+                <option name="url" value="http://localhost:8080/e23fcee5-5424-4e20-b17d-51b6c4b5d328" />
+              </requestState>
+              <requestState>
+                <option name="id" value="f653e608-154f-4602-8076-c468172e7b8a" />
+                <option name="method" value="DELETE" />
+                <option name="name" value="Delete" />
+                <option name="url" value="http://localhost:8080/94446157-8b02-4b91-ac5b-296ecc416b15" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="C:\Projects\NeuroAPI\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="a7f8930f-4df6-485e-a4b7-f2b99280b3de" />
+  </component>
+</project>
