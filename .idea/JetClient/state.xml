@@ -52,13 +52,13 @@
                 <option name="id" value="ed2ed847-59c5-4c9b-8944-d703d66617b9" />
                 <option name="method" value="PUT" />
                 <option name="name" value="Put" />
-                <option name="url" value="http://localhost:8080/e23fcee5-5424-4e20-b17d-51b6c4b5d328" />
+                <option name="url" value="http://localhost:8080/f80e2f39-3d4d-49a4-8c3e-23b94a71dbb1" />
               </requestState>
               <requestState>
                 <option name="id" value="f653e608-154f-4602-8076-c468172e7b8a" />
                 <option name="method" value="DELETE" />
                 <option name="name" value="Delete" />
-                <option name="url" value="http://localhost:8080/94446157-8b02-4b91-ac5b-296ecc416b15" />
+                <option name="url" value="http://localhost:8080/93af21d4-6a61-4a53-834c-7b4ee7b1b63e" />
               </requestState>
             </list>
           </option>
